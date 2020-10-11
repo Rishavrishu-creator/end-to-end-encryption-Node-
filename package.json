@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Rishavrishu-creator/end-to-end-encryption-Node-#readme",
   "dependencies": {
+    "aes256": "^1.0.4",
     "crypto": "^1.0.1",
     "rand-token": "^1.0.1"
   }
